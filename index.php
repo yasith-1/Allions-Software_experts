@@ -64,12 +64,11 @@
         <!-- Spinner Start -->
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
 
-
             <!-- preloader style 1 -->
-            <l-infinity size="130" stroke="9" stroke-length="0.15" bg-opacity="0.1" speed="1.3" color="#2E70F5"></l-infinity>
+            <l-infinity size="110" stroke="7" stroke-length="0.15" bg-opacity="0.13" speed="1.3" color="#4287f5"></l-infinity>
 
             <!-- preloader style 2 -->
-            <!-- <l-quantum size="106" speed="1.75" color="#05B4FF"></l-quantum> -->
+            <!-- <l-quantum size="106" speed="1.75" color="#4287f5"></l-quantum> -->
 
 
 
@@ -116,7 +115,7 @@
                         <div class="col-8 text-center justify-content-center d-flex text-lg-start mb-4 mt-5 pt-4 animated wow fadeInRight" data-wow-delay="0.1s" id="allionzheroimage">
 
                             <!-- <img class="img-fluid animated zoomIn" width="500px" src="img/hero.png" alt=""> -->
-                            <img src="img/blackfontlogo.png" style="width: 800px; animation: bounce 2s backwards;" class="img-fluid text-center  bg-body-secondary px-4 py-5 rounded-5 bg-opacity-75 " alt="Allionz">
+                            <img src="img/blackfontlogo.png" style="width: 800px; animation: bounce 2s backwards;" class="img-fluid text-center  bg-body-secondary px-5 py-5 rounded-5 bg-opacity-75 " alt="Allionz">
                             <!-- <img src="img/whitefontlogo.png" style="width: 900px;" class="img-fluid text-center px-4 py-5 rounded-5 " alt="" srcset=""> -->
 
 
