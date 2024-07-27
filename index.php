@@ -50,6 +50,12 @@
 
     <!-- logo -->
     <link rel="icon" href="img/white-A-letterlogo.png" type="image/x-icon">
+
+    <!-- preloader style 1 -->
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ldrs/dist/auto/infinity.js"></script>
+
+    <!-- preloader style 2 -->
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ldrs/dist/auto/quantum.js"></script>
 </head>
 
 <body class="m-0">
@@ -59,13 +65,13 @@
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
 
 
-            <!-- <img src="img/allionzailogo.png" style="width: 150px;" alt=""> -->
+            <!-- preloader style 1 -->
+            <l-infinity size="130" stroke="9" stroke-length="0.15" bg-opacity="0.1" speed="1.3" color="#2E70F5"></l-infinity>
 
-            <?php include "preloader.php"; ?>
+            <!-- preloader style 2 -->
+            <!-- <l-quantum size="106" speed="1.75" color="#05B4FF"></l-quantum> -->
 
-            <!-- <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
-                <span class="sr-only">Loading...</span>
-            </div> -->
+
 
         </div>
         <!-- Spinner End -->
