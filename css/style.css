@@ -19,9 +19,9 @@
 }
 
 .fvw:hover {
-  -webkit-transform: scale(1, 1);
+
   transform: scale(1.05, 1.05);
-  /* box-shadow: 0 0 10px 0 rgba(231, 231, 231, 0.459); */
+  transition: all 400ms ease;
 }
 
 /* orbitron font style */
