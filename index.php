@@ -1070,110 +1070,111 @@
 
 
 
-
-
-
-
-                <!-- Contact us Start -->
-                <div class="col-12 d-flex justify-content-center mt-4 mb-3 ">
-                    <div class="container">
-                        <!-- More info card start -->
-                        <div class="d-block" id="moreinfo">
-                            <h2 class="text-center mb-3 mytron animated zoomIn wow" data-wow-delay="0.1s">More info about Allionz</h2>
-                            <div class="card mb-3 p-md-2  shadow-lg rounded-5 bg-opacity-25 wow fadeInUp" data-wow-delay="0.1s">
-                                <div class="row justify-content-center g-0">
-                                    <div class="col-12 col-md-8">
-                                        <div class="card-body ">
-                                            <div class="row col-12 px-md-2 g-3 align-items-center">
-
-                                                <div class="col-12 text-center d-none d-md-block">
-                                                    <h6 class="text-muted text-start col-12 " style="font-family: poppins; font-size:20px; letter-spacing: 1px;">We use the best technologies for web development, desktop application development and Android Application Development.</h6>
-                                                </div>
-
-                                                <div class="col-12 mt-5 gap-3 d-flex flex-column">
-                                                    <h5 class="animated zoomInLeft wow" data-wow-delay="0.1s"><i class="bi bi-envelope-at"></i>&nbsp; &nbsp; <span>contact@allionz.com</span></h5>
-                                                    <h5 class="animated zoomInLeft wow" data-wow-delay="0.2s"><i class="bi bi-whatsapp"></i>&nbsp; &nbsp; <span>0751887145</span></h5>
-                                                    <h5 class="animated zoomInLeft wow" data-wow-delay="0.3s"><i class="bi bi-facebook"></i>&nbsp; &nbsp; <span>facebook</span></h5>
-                                                    <h5 class="animated zoomInLeft wow" data-wow-delay="0.4s"><i class="bi bi-linkedin"></i>&nbsp; &nbsp; <span>linkdln</span></h5>
-                                                    <h5 class="animated zoomInLeft wow" data-wow-delay="0.5s"><i class="bi bi-instagram"></i>&nbsp; &nbsp; <span>instagram</span></h5>
-                                                    <h5 class="animated zoomInLeft wow" data-wow-delay="0.6s"><i class="bi bi-telephone-forward"></i>&nbsp; &nbsp; <span>0751887145 | 0701410113</span></h5>
-                                                    <!-- <h5 href="https://wa.me/94751887145" target="_blank" class="col-6 rounded-4 fw-bold nav-item nav-link py-2 px-2 mynav">Whatsapp &nbsp; <i class="bi bi-whatsapp"></i></h5> -->
-                                                </div>
-
-                                                <div class="text-center ">
-                                                    <button class="btn btn-primary col-lg-6 col-12 rounded-4 fvw py-2 mt-5" style="font-family: poppins;" onclick="Inquire();"> Inquire Now &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-4 d-flex justify-content-center align-items-center ">
-                                        <img src="img/more info.png" class="img-fluid rounded-4 bg-transparent wow fadeInRight " style="width: 500px;" alt="...">
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                        <!-- More info card  end -->
-
-                        <!-- About us card area start-->
-                        <div class="d-none" id="aboutus">
-                            <h2 class="text-center mb-3 mytron animated zoomIn wow" data-wow-delay="0.1s">Get In Touch</h2>
-                            <div class="card mb-3 p-2  shadow-lg rounded-5 bg-opacity-25" data-wow-delay="0.1s">
-                                <div class="row justify-content-center g-0">
-                                    <div class="col-md-5 d-flex justify-content-center align-items-center">
-                                        <img src="img/contactus.jpeg" class="img-fluid rounded-4 bg-transparent " style="width: 500px;" alt="...">
-                                    </div>
-                                    <div class="col-md-7">
-                                        <div class="card-body ">
-                                            <div class="row col-12 px-2 g-4">
-                                                <a class="text-primary" onclick="goback();" style="cursor: pointer;"><i class="bi bi-arrow-left"></i>&nbsp;Go Back</a>
-                                                <h5 class="card-title text-dark text-center fw-bold" style="font-family: poppins;">We are Here For You !</h5>
-
-                                                <div class="col-12">
-                                                    <input type="text" class=" form-control rounded-4 text-dark" placeholder="Full Name" id="name">
-                                                </div>
-
-                                                <div class="col-12">
-                                                    <input type="email" class=" form-control rounded-4 text-dark" placeholder="Email" id="email">
-                                                </div>
-
-                                                <div class="col-12">
-                                                    <input type="text" class=" form-control rounded-4 text-dark" placeholder="Mobile No (optional)" id="mob">
-                                                </div>
-
-                                                <div class="col-12">
-                                                    <textarea class="form-control rounded-4 text-dark" rows="3" placeholder="Message" id="msg"></textarea>
-                                                </div>
-
-                                                <div class="row col-12 justify-content-center gap-3">
-                                                    <!-- <button class="btn btn-dark col-7 col-lg-4 rounded-4 fvw py-2 mt-3" style="font-family: poppins;" onclick="Inquire();"> Back to More info &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button> -->
-                                                    <button class="btn btn-primary col-7 col-lg-7 rounded-4 fvw py-2 mt-3" style="font-family: poppins;" onclick="requestSend()"> Send &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- About us card area end-->
-
-                    </div>
-                </div>
-                <!-- Contact us End -->
-
-
-                <!-- Back to Top -->
-                <a href="#" class="btn btn-lg btn-lg-square back-to-top text-white" style="background-color: rgb(49, 127, 179);"><i class="bi bi-arrow-up"></i></a>
-                <!-- Back to Top -->
-
-
-                <!-- whatsapp button -->
-                <a href="https://wa.me/94751887145" class="float " target="_blank">
-                    <i class="fa-brands fa-whatsapp my-float" style="color: #ffffff;"></i>
-                </a>
-                <!-- whatsapp button -->
             </div>
+
+
+
+            <!-- Contact us Start -->
+            <div class="col-12 d-flex justify-content-center mt-4 mb-3 ">
+                <div class="container">
+                    <!-- More info card start -->
+                    <div class="d-block" id="moreinfo">
+                        <h2 class="text-center mb-3 mytron animated zoomIn wow" data-wow-delay="0.1s">More info about Allionz</h2>
+                        <div class="card mb-3 p-md-2  shadow-lg rounded-5 bg-opacity-25 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="row justify-content-center g-0">
+                                <div class="col-12 col-md-8">
+                                    <div class="card-body ">
+                                        <div class="row col-12 px-md-2 g-3 align-items-center">
+
+                                            <div class="col-12 text-center d-none d-md-block">
+                                                <h6 class="text-muted text-start col-12 " style="font-family: poppins; font-size:20px; letter-spacing: 1px;">We use the best technologies for web development, desktop application development and Android Application Development.</h6>
+                                            </div>
+
+                                            <div class="col-12 mt-5 gap-3 d-flex flex-column">
+                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.1s"><i class="bi bi-envelope-at"></i>&nbsp; &nbsp; <span>contact@allionz.com</span></h5>
+                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.2s"><i class="bi bi-whatsapp"></i>&nbsp; &nbsp; <span>0751887145</span></h5>
+                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.3s"><i class="bi bi-facebook"></i>&nbsp; &nbsp; <span>facebook</span></h5>
+                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.4s"><i class="bi bi-linkedin"></i>&nbsp; &nbsp; <span>linkdln</span></h5>
+                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.5s"><i class="bi bi-instagram"></i>&nbsp; &nbsp; <span>instagram</span></h5>
+                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.6s"><i class="bi bi-telephone-forward"></i>&nbsp; &nbsp; <span>0751887145 | 0701410113</span></h5>
+                                                <!-- <h5 href="https://wa.me/94751887145" target="_blank" class="col-6 rounded-4 fw-bold nav-item nav-link py-2 px-2 mynav">Whatsapp &nbsp; <i class="bi bi-whatsapp"></i></h5> -->
+                                            </div>
+
+                                            <div class="text-center ">
+                                                <button class="btn btn-primary col-lg-6 col-12 rounded-4 fvw py-2 mt-5" style="font-family: poppins;" onclick="Inquire();"> Inquire Now &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 d-flex justify-content-center align-items-center ">
+                                    <img src="img/more info.png" class="img-fluid rounded-4 bg-transparent wow fadeInRight " style="width: 500px;" alt="...">
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- More info card  end -->
+
+                    <!-- About us card area start-->
+                    <div class="d-none" id="aboutus">
+                        <h2 class="text-center mb-3 mytron animated zoomIn wow" data-wow-delay="0.1s">Get In Touch</h2>
+                        <div class="card mb-3 p-2  shadow-lg rounded-5 bg-opacity-25" data-wow-delay="0.1s">
+                            <div class="row justify-content-center g-0">
+                                <div class="col-md-5 d-flex justify-content-center align-items-center">
+                                    <img src="img/contactus.jpeg" class="img-fluid rounded-4 bg-transparent " style="width: 500px;" alt="...">
+                                </div>
+                                <div class="col-md-7">
+                                    <div class="card-body ">
+                                        <div class="row col-12 px-2 g-4">
+                                            <a class="text-primary" onclick="goback();" style="cursor: pointer;"><i class="bi bi-arrow-left"></i>&nbsp;Go Back</a>
+                                            <h5 class="card-title text-dark text-center fw-bold" style="font-family: poppins;">We are Here For You !</h5>
+
+                                            <div class="col-12">
+                                                <input type="text" class=" form-control rounded-4 text-dark" placeholder="Full Name" id="name">
+                                            </div>
+
+                                            <div class="col-12">
+                                                <input type="email" class=" form-control rounded-4 text-dark" placeholder="Email" id="email">
+                                            </div>
+
+                                            <div class="col-12">
+                                                <input type="text" class=" form-control rounded-4 text-dark" placeholder="Mobile No (optional)" id="mob">
+                                            </div>
+
+                                            <div class="col-12">
+                                                <textarea class="form-control rounded-4 text-dark" rows="3" placeholder="Message" id="msg"></textarea>
+                                            </div>
+
+                                            <div class="row col-12 justify-content-center gap-3">
+                                                <!-- <button class="btn btn-dark col-7 col-lg-4 rounded-4 fvw py-2 mt-3" style="font-family: poppins;" onclick="Inquire();"> Back to More info &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button> -->
+                                                <button class="btn btn-primary col-7 col-lg-7 rounded-4 fvw py-2 mt-3" style="font-family: poppins;" onclick="requestSend()"> Send &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- About us card area end-->
+
+                </div>
+            </div>
+            <!-- Contact us End -->
+
+
+            <!-- Back to Top -->
+            <a href="#" class="btn btn-lg btn-lg-square back-to-top text-white" style="background-color: rgb(49, 127, 179);"><i class="bi bi-arrow-up"></i></a>
+            <!-- Back to Top -->
+
+
+            <!-- whatsapp button -->
+            <a href="https://wa.me/94751887145" class="float " target="_blank">
+                <i class="fa-brands fa-whatsapp my-float" style="color: #ffffff;"></i>
+            </a>
+            <!-- whatsapp button -->
+
+
         </div>
 
 
