@@ -1100,10 +1100,13 @@
                                                 <!-- <h5 href="https://wa.me/94751887145" target="_blank" class="col-6 rounded-4 fw-bold nav-item nav-link py-2 px-2 mynav">Whatsapp &nbsp; <i class="bi bi-whatsapp"></i></h5> -->
                                             </div>
 
-                                            <div class="text-center ">
-                                                <button class="btn btn-primary col-lg-6 col-12 rounded-4 fvw py-2 mt-5" style="font-family: poppins;" onclick="Inquire();"> Inquire Now &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button>
-                                            </div>
+
                                         </div>
+
+                                        <div class="text-center ">
+                                            <button class="btn btn-primary col-lg-8 col-12 rounded-4 fvw py-2 mt-5" style="font-family: poppins;" onclick="Inquire();"> Inquire Now &nbsp; <span class="pt-1 mt-1"> <i class="bi bi-send text-light h5 "></i></span></button>
+                                        </div>
+
                                     </div>
                                 </div>
 
