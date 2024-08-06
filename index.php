@@ -1091,7 +1091,8 @@
                                             </div>
 
                                             <div class="col-12 mt-5 gap-3 d-flex flex-column">
-                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.1s"><i class="bi bi-envelope-at"></i>&nbsp; &nbsp; <span>contact@allionz.com</span></h5>
+                                                <h5 class="animated zoomInLeft wow" data-wow-delay="0.1s"><i class="bi bi-envelope-at"></i>&nbsp; &nbsp; <span>
+                                                        allionzsoftwares@gmail.com</span></h5>
                                                 <h5 class="animated zoomInLeft wow" data-wow-delay="0.2s"><i class="bi bi-whatsapp"></i>&nbsp; &nbsp; <span>0751887145</span></h5>
                                                 <h5 class="animated zoomInLeft wow" data-wow-delay="0.3s"><i class="bi bi-facebook"></i>&nbsp; &nbsp; <span>facebook</span></h5>
                                                 <h5 class="animated zoomInLeft wow" data-wow-delay="0.4s"><i class="bi bi-linkedin"></i>&nbsp; &nbsp; <span>linkdln</span></h5>
