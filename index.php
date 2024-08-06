@@ -1082,7 +1082,7 @@
                             <h2 class="text-center mb-3 mytron animated zoomIn wow" data-wow-delay="0.1s">More info about Allionz</h2>
                             <div class="card mb-3 p-md-2  shadow-lg rounded-5 bg-opacity-25 wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="row justify-content-center g-0">
-                                    <div class="col-md-8">
+                                    <div class="col-12 col-md-8">
                                         <div class="card-body ">
                                             <div class="row col-12 px-md-2 g-3 align-items-center">
 
@@ -1097,7 +1097,7 @@
                                                     <h5 class="animated zoomInLeft wow" data-wow-delay="0.4s"><i class="bi bi-linkedin"></i>&nbsp; &nbsp; <span>linkdln</span></h5>
                                                     <h5 class="animated zoomInLeft wow" data-wow-delay="0.5s"><i class="bi bi-instagram"></i>&nbsp; &nbsp; <span>instagram</span></h5>
                                                     <h5 class="animated zoomInLeft wow" data-wow-delay="0.6s"><i class="bi bi-telephone-forward"></i>&nbsp; &nbsp; <span>0751887145 | 0701410113</span></h5>
-                                                    <h5 href="https://wa.me/94751887145" target="_blank" class="col-6 rounded-4 fw-bold nav-item nav-link py-2 px-2 mynav">Whatsapp &nbsp; <i class="bi bi-whatsapp"></i></h5>
+                                                    <!-- <h5 href="https://wa.me/94751887145" target="_blank" class="col-6 rounded-4 fw-bold nav-item nav-link py-2 px-2 mynav">Whatsapp &nbsp; <i class="bi bi-whatsapp"></i></h5> -->
                                                 </div>
 
                                                 <div class="text-center ">
