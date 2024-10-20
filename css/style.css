@@ -65,11 +65,38 @@ body {
   background-color: #fafafa;
 }
 
-/* Make the scrollbar invisible */
-::-webkit-scrollbar {
+/* Scrollbar invisible */
+
+/* ::-webkit-scrollbar {
   width: 0;
   height: 0;
+} */
+
+
+/* Scrollbar visible customise */
+
+
+::-webkit-scrollbar {
+  width: 12px; /* width of the scrollbar for vertical bar */
+  height: 12px; /* height of the scrollbar for horizontal bar */
 }
+
+/* Customize the track (the background of the scrollbar) */
+::-webkit-scrollbar-track {
+  background: #52c3f0; /* light grey background */
+}
+
+/* Customize the thumb (the draggable part of the scrollbar) */
+::-webkit-scrollbar-thumb {
+  background-color: #52c3f0; /* darker grey color for the thumb */
+  border-radius: 10px; /* rounded corners for the thumb */
+  border: 2px solid #f1f1f1; /* padding around thumb */
+}
+
+/* Change the thumb color when hovered */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #52c3f0; /* dark grey on hover */
+} 
 
 /* Make the scrollbar track invisible */
 ::-webkit-scrollbar-track {

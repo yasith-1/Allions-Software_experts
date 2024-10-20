@@ -8,7 +8,7 @@
     <link rel="alternate" href="css/bootstrap.css" type="application/atom+xml" title="Atom">
 </head>
 
-<body class="loader-body" >
+<body class="loader-body">
 
     <div>
         <!-- <p class="mb-1 loder-title"><span class="auto-type3" style=" color: rgb(0, 140, 255);"></span></h1> -->
