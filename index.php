@@ -6,7 +6,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
-    <title>Allionz Softwate Solution | Researching New Technologies</title>
+    <title>Allionz Software Solution | Researching New Technologies</title>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -1284,7 +1284,7 @@
 
             var typed = new Typed(".auto-type", {
 
-                strings: ["Software Experts.."],
+                strings: ["Software Solutions.."],
                 typeSpeed: 150,
                 backSpeed: 150,
                 loop: true
