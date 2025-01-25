@@ -70,8 +70,6 @@
             <!-- preloader style 2 -->
             <!-- <l-quantum size="106" speed="1.75" color="#4287f5"></l-quantum> -->
 
-
-
         </div>
         <!-- Spinner End -->
 

@@ -56,7 +56,7 @@
     });
 
     $('.float').click(function () {
-        window.open("https://wa.me/94751887145","_blank");
+        window.open("https://wa.me/94751887145", "_blank");
         return false;
     });
 
@@ -262,5 +262,3 @@ var swiper = new Swiper(".swiper", {
 });
 
 swiper.slideTo(1, false, false);
-
-
