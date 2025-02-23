@@ -841,10 +841,10 @@
                     <div class="swiper">
                         <div class="swiper-wrapper">
 
-                            <!-- Me -->
+                            <!-- Yasith -->
                             <div class="swiper-slide  zoomInLeft wow" data-wow-delay="0.2s">
                                 <div class="swiper-slide-img">
-                                    <img src="img/Yasith.png" alt="">
+                                    <img src="img\yasith.jpeg" alt="">
 
                                 </div>
                                 <div class="swiper-slide-content">
@@ -860,7 +860,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Me -->
+                            <!-- Yasith -->
 
                             <!-- Maalik -->
                             <div class="swiper-slide  zoomInLeft wow" data-wow-delay="0.2s">
